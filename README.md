@@ -2,4 +2,4 @@
 
 ## An Stock Analysis Scripts !
 
-### Scripts is able to id stock and stock yearly change and total stock volume. 
+### Scripts is able to ID stock and stock yearly change and total stock volume. 
